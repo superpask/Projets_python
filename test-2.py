@@ -11,5 +11,8 @@ print(y)
 
 a = int(10)
 b = int(20)
-z = a * b
+c = int(5)
+z = a * b * c
 print("le résultat c'est", z)
+
+
